@@ -1,14 +1,18 @@
 # Resume
 ```
-My first experience with programming is using scratch in my secondary school. It was a fun experience; 
+My first experience with programming is using scratch in my secondary school. 
+It was a fun experience; 
 it opened up my eyes to the myraid of possibilites that coding could achieve.
 
 Despite that, I failed to pursue that interest due to personal and circumstantial reasons. 
-However, during the lockdown in 2020, I was delighted to be accepted into the Stanford Code in Place Online course.
+However, during the lockdown in 2020, 
+I was delighted to be accepted into the Stanford Code in Place Online course.
 From there, I learned the basics of python and the correct method of thinking like a professional programmer.
 
-In June 2021, witnessing the power that telegram bot could achieve, I decided to try out and programme my own bot.
-Thanks to the help of my friend, we successfully created the @cs_notes_bot that is currently hosted using firebase.
+In June 2021, witnessing the power that telegram bot could achieve, 
+I decided to try out and programme my own bot.
+Thanks to the help of my friend, 
+we successfully created the @cs_notes_bot that is currently hosted using firebase.
 Afterwards, I decided to continue to pursue that interest by enrolling into the 
 hyperskill Java Course by JetBrains Academy.
 
