@@ -26,10 +26,10 @@ And the rest is history...
 - Managing inventories for signal equipment.
 
 ## EDUCATION
-### 2017 - 2018
+### 2017 – 2018
 ### SINGAPORE GCE A LEVELS, ANGLO-CHINESE Junior College
 - 2 H2 DISTINCTIONS
-### 2012-2016
+### 2012 – 2016
 ### SINGAPORE GCE O LEVELS, EAST SPRING SECONDARY SCHOOL
 - 6 DISTINCTIONS
 
