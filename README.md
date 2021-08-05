@@ -19,8 +19,8 @@ hyperskill Java Course by JetBrains Academy.
 And the rest is history...
 ```
 ## EXPERIENCE
-2019 – 2021
-SIGNAL OPERATOR, SINGAPORE ARMED FORCES
+### 2019 – 2021
+### SIGNAL OPERATOR, SINGAPORE ARMED FORCES
 - Technical skills in organizing presentations for important events.
 - Technical skills in operating signaling and network communication equipment.
 - Managing inventories for signal equipment.
