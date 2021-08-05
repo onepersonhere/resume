@@ -12,7 +12,7 @@ From there, I learned the basics of python and the correct method of thinking li
 In June 2021, witnessing the power that telegram bot could achieve, 
 I decided to try out and programme my own bot.
 Thanks to the help of my friend, 
-we successfully created the @cs_notes_bot that is currently hosted using firebase.
+we successfully created the @cs_notes_bot for telegram that is currently hosted using firebase.
 Afterwards, I decided to continue to pursue that interest by enrolling into the 
 hyperskill Java Course by JetBrains Academy.
 
