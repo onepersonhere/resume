@@ -19,6 +19,11 @@ hyperskill Java Course by JetBrains Academy.
 And the rest is history...
 ```
 ## EXPERIENCE
+### 2021 – 2021
+### HEALTHCARE ASSISTANT, MINMED GROUP PTE LTD
+- Technical skills in operating databases.
+- Interaction with patients for registering for COVID-19 Vaccines.
+
 ### 2019 – 2021
 ### SIGNAL OPERATOR, SINGAPORE ARMED FORCES
 - Technical skills in organizing presentations for important events.
@@ -27,7 +32,7 @@ And the rest is history...
 
 ## EDUCATION
 ### 2017 – 2018
-### SINGAPORE GCE A LEVELS, ANGLO-CHINESE Junior College
+### SINGAPORE GCE A LEVELS, ANGLO-CHINESE JUNIOR COLLEGE
 - 2 H2 DISTINCTIONS
 ### 2012 – 2016
 ### SINGAPORE GCE O LEVELS, EAST SPRING SECONDARY SCHOOL
