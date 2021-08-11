@@ -49,7 +49,7 @@ And the rest is history...
 
 ## ACTIVITIES
 ### 2017 – 2018
-### LIBRARY CLUB, EXCO
+### LIBRARY COUNCIL, EXCO
 - Helped in the processing and recording of loan of books and laptops.
 - Organized events and activity that promotes reading.
 - Participate in the volunteering at soup kitchen helping to cook food.
