@@ -55,7 +55,7 @@ hyperskill Java Course by JetBrains Academy.
 - Technical skills in organizing presentations for important events.
 - Technical skills in operating signaling and network communication equipment.
 - Managing inventories for signal equipment.
-
+- Trained in CCNA
 ## EDUCATION
 ### 2021 - 2025
 ### BACHELOR OF COMPUTING IN COMPUTER SCIENCE WITH HONOURS, NATIONAL UNIVERSITY OF SINGAPORE
