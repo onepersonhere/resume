@@ -50,7 +50,6 @@ hyperskill Java Course by JetBrains Academy.
 ### HEALTHCARE ASSISTANT, MINMED GROUP PTE LTD
 - Technical skills in operating databases.
 - Interaction with patients for registering for COVID-19 Vaccines.
-
 ### 2019 – 2021
 ### SIGNAL OPERATOR, SINGAPORE ARMED FORCES
 - Technical skills in organizing presentations for important events.
@@ -61,14 +60,11 @@ hyperskill Java Course by JetBrains Academy.
 ### 2021 - 2025
 ### BACHELOR OF COMPUTING IN COMPUTER SCIECNCE WITH HONOURS, NATIONAL UNIVERSITY OF SINGAPORE
 - Minor in Quantitative Finance
-
 ### 2020 - 2020
 ### STANFORD CODE IN PLACE
-
 ### 2017 – 2018
 ### SINGAPORE GCE A LEVELS, ANGLO-CHINESE JUNIOR COLLEGE
 - 2 H2 DISTINCTIONS
-
 ### 2012 – 2016
 ### SINGAPORE GCE O LEVELS, EAST SPRING SECONDARY SCHOOL
 - 6 DISTINCTIONS
@@ -87,13 +83,11 @@ hyperskill Java Course by JetBrains Academy.
 - Helped in the processing and recording of loan of books and laptops.
 - Organized events and activity that promotes reading.
 - Participate in the volunteering at soup kitchen helping to cook food.
-
 ### 2017 – 2018
 ### ECONOMICS SOCIETY, MEMBER
 - Planned and organized a workshop that promotes economic knowledge through the trading of 
 imitation forex.
 - Planned and organized the redecoration of home room.
-
 ### 2014 – 2016
 ### HUMANITIES SOCIETY, MEMBER
 - Prepared and organized events to promote Singapore culture in the school.
