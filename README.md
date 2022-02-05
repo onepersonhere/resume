@@ -26,11 +26,11 @@ hyperskill Java Course by JetBrains Academy.
 
 ### Stock Analyser
 - using Java and Excel
-- fitler implementation using DCF
+- filter implementation using DCF
 
 ### [Blockchain](https://github.com/onepersonhere/Blockchain)
 - using Java
-- handling multi-threadded programs
+- handling multi-threaded programs
 
 ### [Json Database](https://github.com/onepersonhere/JSON_Database)
 - using Java
@@ -58,7 +58,7 @@ hyperskill Java Course by JetBrains Academy.
 
 ## EDUCATION
 ### 2021 - 2025
-### BACHELOR OF COMPUTING IN COMPUTER SCIECNCE WITH HONOURS, NATIONAL UNIVERSITY OF SINGAPORE
+### BACHELOR OF COMPUTING IN COMPUTER SCIENCE WITH HONOURS, NATIONAL UNIVERSITY OF SINGAPORE
 - Specialises in Networking and Distributed Systems
 - Specialises in Parallel Computing
 - Minor in Quantitative Finance
