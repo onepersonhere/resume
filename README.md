@@ -24,8 +24,8 @@ hyperskill Java Course by JetBrains Academy.
 - using nodeJS and Javascript
 - self-hosted using Firebase
 
-### Stock Scrapper/Filterer
-- using Java
+### Stock Analyser
+- using Java and Excel
 - fitler implementation using DCF
 
 ### [Blockchain](https://github.com/onepersonhere/Blockchain)
