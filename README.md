@@ -20,7 +20,7 @@ Afterwards, I decided to continue to pursue that interest by enrolling into the
 hyperskill Java Course by JetBrains Academy.
 ```
 ## PROJECTS
-### @cs_notes_bot on telegram 
+### [@cs_notes_bot on telegram](https://t.me/cs_notes_bot)
 - using nodeJS and Javascript
 - self-hosted using Firebase
 
