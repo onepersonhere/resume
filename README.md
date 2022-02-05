@@ -90,6 +90,10 @@ hyperskill Java Course by JetBrains Academy.
 - Planned and organized a workshop that promotes economic knowledge through the trading of 
 imitation forex.
 - Planned and organized the redecoration of home room.
+### 2017 – 2018
+### PROJECT CHEER, ORGANISING COMMITTE
+- Planned and organized a workshop that promotes intergenerational bond between the elderly and the children
+- Liased with various organisations such as the Tan Chin Tuan Foundation.
 ### 2014 – 2016
 ### HUMANITIES SOCIETY, MEMBER
 - Prepared and organized events to promote Singapore culture in the school.
