@@ -28,19 +28,19 @@ hyperskill Java Course by JetBrains Academy.
 - using Java
 - fitler implementation using DCF
 
-### [Blockchain] (https://github.com/onepersonhere/Blockchain)
+### [Blockchain](https://github.com/onepersonhere/Blockchain)
 - using Java
 - handling multi-threadded programs
 
-### [Json Database] (https://github.com/onepersonhere/JSON_Database)
+### [Json Database](https://github.com/onepersonhere/JSON_Database)
 - using Java
 - implementing both server and client
 
-### [Web Quiz Engine] (https://github.com/onepersonhere/Web_Quiz_Engine)
+### [Web Quiz Engine](https://github.com/onepersonhere/Web_Quiz_Engine)
 - using Java Spring
 - using h2 database
 
-### [Code Sharing Platform] (https://github.com/onepersonhere/Code_Sharing_Platform)
+### [Code Sharing Platform](https://github.com/onepersonhere/Code_Sharing_Platform)
 - using Java Spring
 - using h2 database
 
