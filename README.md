@@ -18,9 +18,33 @@ Thanks to the help of my friend, https://github.com/nibmz7/
 we successfully created the @cs_notes_bot for telegram that is currently hosted using firebase.
 Afterwards, I decided to continue to pursue that interest by enrolling into the 
 hyperskill Java Course by JetBrains Academy.
-
-And the rest is history...
 ```
+## PROJECTS
+### @cs_notes_bot on telegram 
+- using nodeJS and Javascript
+- self-hosted using Firebase
+
+### Stock Scrapper/Filterer
+- using Java
+- fitler implementation using DCF
+
+### [Blockchain] (https://github.com/onepersonhere/Blockchain)
+- using Java
+- handling multi-threadded programs
+
+### [Json Database] (https://github.com/onepersonhere/JSON_Database)
+- using Java
+- implementing both server and client
+
+### [Web Quiz Engine] (https://github.com/onepersonhere/Web_Quiz_Engine)
+- using Java Spring
+- using h2 database
+
+### [Code Sharing Platform] (https://github.com/onepersonhere/Code_Sharing_Platform)
+- using Java Spring
+- using h2 database
+
+### 
 ## EXPERIENCE
 ### 2021 – 2021
 ### HEALTHCARE ASSISTANT, MINMED GROUP PTE LTD
@@ -46,7 +70,6 @@ And the rest is history...
 - Teamwork and Communication
 - Basic Programming in C++ and Python
 - Advanced Programming in Java, proficient in Swing and Spring Framework.
-- Creator of cs_notes_bot for telegram - using nodeJS and Firebase
 
 ## ACTIVITIES
 ### 2017 – 2018
