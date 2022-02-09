@@ -71,34 +71,34 @@ hyperskill Java Course by JetBrains Academy.
 ### SINGAPORE GCE O LEVELS, EAST SPRING SECONDARY SCHOOL
 - 6 DISTINCTIONS
 
-### SKILLS
-## Programming Languages
+## SKILLS
+### Programming Languages
 - Java (expert)
 - Javascript (intermediate)
 - C++ (intermediate)
 - Python (intermediate)
 - Bash/Shell (beginner)
 
-## Frameworks
+### Frameworks
 - Java EE (intermediate)
 - Spring Boot (intermediate)
 - Swing (intermediate)
 
-## Object Relation Mapping (ORM)
+### Object Relation Mapping (ORM)
 - Hibernate (beginner)
 
-## Testing
+### Testing
 - JUnit (intermediate)
 
-## Database
+### Database
 - Firebase (advance)
 - H2 Database (intermediate)
 
-## Cloud
+### Cloud
 - Firebase (advance)
 - Azure Cloud (beginner)
 
-## Javascript frameworks
+### Javascript frameworks
 - Node.js (intermediate)
 
 ## ACTIVITIES
