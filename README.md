@@ -71,6 +71,7 @@ hyperskill Java Course by JetBrains Academy.
 ### SINGAPORE GCE O LEVELS, EAST SPRING SECONDARY SCHOOL
 - 6 DISTINCTIONS
 
+### SKILLS
 ## Programming Languages
 - Java (expert)
 - Javascript (intermediate)
