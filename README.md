@@ -74,7 +74,7 @@ hyperskill Java Course by JetBrains Academy.
 ## SKILLS
 ### Programming Languages
 - Java (expert)
-- Javascript (intermediate)
+- JavaScript (intermediate)
 - C++ (intermediate)
 - Python (intermediate)
 - Bash/Shell (beginner)
@@ -98,7 +98,7 @@ hyperskill Java Course by JetBrains Academy.
 - Firebase (advance)
 - Azure Cloud (beginner)
 
-### Javascript frameworks
+### JavaScript frameworks
 - Node.js (intermediate)
 
 ## ACTIVITIES
