@@ -64,6 +64,7 @@ hyperskill Java Course by JetBrains Academy.
 - Minor in Quantitative Finance
 ### 2020 - 2020
 ### STANFORD CODE IN PLACE
+- Python Course
 ### 2017 – 2018
 ### SINGAPORE GCE A LEVELS, ANGLO-CHINESE JUNIOR COLLEGE
 - 2 H2 DISTINCTIONS
