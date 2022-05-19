@@ -102,6 +102,12 @@ hyperskill Java Course by JetBrains Academy.
 - Node.js (intermediate)
 
 ## ACTIVITIES
+### 2022 - 2022
+### Shopee Code League 2022
+- finished top ~100 place
+### 2020 - 2020
+### IBM x SCDF Lifesavers' Innovation Challenge
+- using IBM Cloud
 ### 2017 – 2018
 ### LIBRARY COUNCIL, EXCO
 - Helped in the processing and recording of loan of books and laptops.
